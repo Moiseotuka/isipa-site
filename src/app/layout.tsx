@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   title: "IST de Mbanza-Ngungu | Institut Supérieur des Techniques",
   description:
     "IST de Mbanza-Ngungu — Science, Morale, Développement. Formations en Gestion, Santé, Techniques Appliquées, Master et OPJ.",
+  icons: {
+    icon: "/favicon.jpg",
+  },
 };
 
 export default function RootLayout({
